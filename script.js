@@ -1,9 +1,9 @@
 
     
 function arr_summ(arr, arr2){
-    var len = arr.length;
-    var len2 = arr2.length;
-    var res = [];
+    let len = arr.length;
+    let len2 = arr2.length;
+    let res = [];
     
     if (len == len2){
     
