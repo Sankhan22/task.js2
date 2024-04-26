@@ -8,7 +8,7 @@ function arr_summ(arr, arr2){
     if (len == len2){
     
     arr.forEach(function(val, i){
-    res[i] = arr[i]+arr2[i] ;
+    res[i] = valgit +arr2[i] ;
     })
     
     return res;
